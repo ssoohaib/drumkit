@@ -81,18 +81,15 @@ footer {
 }
 
 @media only screen and (max-width:400px){
-  h1{
+ h1{
     font-size: 3rem;
-    margin: 4rem 1rem 5rem;
+    margin: 2rem 1rem 2rem;
   }
   .drum{
-    height: 120px;
-    width: 120px;
+    height: 100px;
+    width: 100px;
   }
   .d{
     display: none;
-  }
-  h5{
-    margin-top: 3rem;
   }
 }
